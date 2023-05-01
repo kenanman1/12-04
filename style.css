@@ -1,0 +1,243 @@
+body {
+    margin: 0;
+}
+
+nav {
+    height: 30px;
+    background-color: #f6f7fa;
+    padding-top: 9px;
+    padding-bottom: 2px;
+    font-family: Helvetica;
+    font-size: 15px;
+}
+
+#sitesnav {
+    list-style: none;
+    display: inline;
+    padding-left: 275px;
+    color: #8d94ad;
+}
+
+#sitesnav li {
+    display: inline;
+    padding-right: 20px;
+}
+
+#number {
+    padding-left: 150px;
+    color: black;
+}
+
+.black {
+    color: black;
+    cursor: default;
+}
+
+nav a {
+    text-decoration: none;
+    color: #8d94ad;
+}
+menu a{
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(208, 0, 0);
+}
+
+menu {
+    background-color: rgb(205, 0, 0);
+    height: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    color: #fff;
+}
+
+menu p {
+    display: inline-block;
+    padding-left: 270px;
+    font-weight: bold;
+    font-size: large;
+    padding-top: 2px;
+    vertical-align: middle;
+}
+
+menu ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    padding-left: 40px;
+}
+
+menu a {
+    color: white;
+}
+
+menu a:hover {
+    color: rgb(252, 152, 152);
+}
+
+menu li {
+    display: inline;
+    padding-right: 25px;
+    font-size: 15px;
+}
+
+menu button {
+    margin-left: 250px;
+    background-color: #7ed321;
+    height: 40px;
+    width: 100px;
+    border-radius: 7px;
+    border-color: #7ed321;
+    color: white;
+    font-size: 15px;
+}
+
+section {
+    margin: 0;
+    height: 210px;
+    background-color: #ebedf3;
+}
+
+section ul {
+    padding-left: 275px;
+    padding-top: 20px;
+    margin: 0;
+}
+
+section li {
+    list-style: none;
+    display: inline;
+}
+
+section button {
+    font-size: 14px;
+    padding-left: 10px;
+    background-color: white;
+    color: #8d94ad;
+    height: 46px;
+    font-size: 15px;
+    border-width: 1px ;
+    border-color: #e1e4ee;
+    border-style: solid;
+}
+
+.bigbutton {
+    width: 232px;
+    text-align: start;
+    border-radius: 7px;
+    margin-right: 6px;
+    
+}
+
+#btnsplit1 {
+    text-align: center;
+    width: 70px;
+    border-radius: 7px;
+    background-color: rgb(200, 0, 0);
+    color: white;
+    padding-left: 1px;
+}
+
+#btnsplit2 {
+    text-align: center;
+    width: 70px;
+    background-color: white;
+    margin-left: -8px;
+}
+
+#btnsplit3 {
+    margin-left: -5px;
+    width: 100px;
+    border-width: 0 0 0 1px;
+    border-radius: 0 7px 7px 0;
+    background-color: white;
+}
+
+#bigbutton1 {
+    width: 230px;
+    text-align: start;
+    background-color: white;
+    border-radius: 7px;
+    margin-left: 8px;
+}
+#ulsection2{
+    margin-top: -7px;
+}
+
+#btnsplit4 {
+    text-align: center;
+    width: 120px;
+    border-radius: 7px 0 0 7px;
+    padding-left: 1px;
+}
+#btnsplit5{
+    margin-left: -5px;
+    width: 110px;
+    border-radius: 0 7px 7px 0;
+    background-color: white;
+    text-align: start;
+}
+#AZN{
+    margin-left: 9px;
+    border-radius: 7px;
+    color: black;
+    width: 80px;
+    text-align: start;
+}
+.smallbtn{
+    color: black;
+    border-radius: 7px;
+    margin-left: 9px;
+    width:62px
+}
+#bigbutton2{
+    width: 236px;
+    text-align: start;
+    background-color: white;
+    border-radius: 7px;
+    margin-left: 8px;
+}
+#btnsplit6{
+    border-radius: 7px 0 7px 7px;
+    margin-left: 8px;
+    width:120px;
+    text-align: start;
+}
+#btnsplit7{
+    width:100px;
+    margin-left: -7px;
+    text-align: start;
+    width: 110px;
+    border-radius: 0 7px 7px 0;
+}
+#bugunelan{
+    font-family: Helvetica;
+    margin-top: 15px;
+    margin-left: 277px;
+    font-size: 15px;
+}
+#bugunelan a{
+    text-decoration: none;
+    color: rgb(95, 130, 255);
+}
+.footerbtn{
+    margin-right: -380px;
+    margin-left: 400px;
+    border: none;
+    background-color:#ebedf3;
+    color: rgb(198, 0, 0);
+}
+#elangoster{
+    color: white;
+    background-color: rgb(194, 0, 0);
+    margin-left: 425px;
+    height: 49px;
+    width: 170px;
+    border-radius: 7px;
+}
